@@ -1,1 +1,2 @@
 Content added by DEV2 //change value DEV2 for other bash user
+Content added by me //change value DEV2 for other bash user
